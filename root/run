@@ -1,0 +1,9 @@
+#!/bin/bash -x
+
+{ sys161 kernel "p uw-testbin/onefork;q"; sys161 kernel "p uw-testbin/pidcheck;q";
+sys161 kernel "p uw-testbin/widefork;q";sys161 kernel "p testbin/forktest;q"; 
+sys161 kernel "p uw-testbin/hogparty;q"; sys161 kernel "p testbin/sty;q"
+sys161 kernel "p uw-testbin/argtesttest;q"; sys161 kernel "p uw-testbin/argtest 23 second;q"
+sys161 kernel "p testbin/add -4 7;q";}\
+|egrep -v "^sys161: System/161|OS/161 base system|Copyright \(c\) 2000|President and Fellows|Cpu is MIPS r2000/r3000|^Device probe\.\.\.|^lamebus0 \(system main bus\)|^emu0 at lamebus0|^ltrace0 at lamebus0|^ltimer0 at lamebus0|^hardclock on ltimer0 \(100 hz\)|^beep0 at ltimer0|^rtclock0 at ltimer0|^lrandom0 at lamebus0|^random0 at lrandom0|^lhd0 at lamebus0|^lhd1 at lamebus0|^lser0 at lamebus0|^con0 at lser0|^pseudorand0 \(virtual\)"\
+| cat

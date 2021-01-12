@@ -1,0 +1,1350 @@
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109264817 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078254377 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109072937 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078354497 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109345497 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078568377 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109348457 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078224617 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109411937 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078291537 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109452257 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078290377 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109404657 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078344777 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109301297 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078254617 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109241817 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078222017 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109409097 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078363977 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109375817 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078306777 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109319937 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078241297 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109328737 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078314977 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109355417 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078194177 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109226657 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078310697 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109343177 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078265217 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109346137 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078270897 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109221617 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078173537 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109514057 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078335217 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109352937 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078226257 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109123737 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078315137 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109150217 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078304817 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109343777 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078458577 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109282137 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078449337 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109215417 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078228537 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109287137 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078197897 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109232777 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078276577 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109471817 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078188137 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109304697 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078394337 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109506177 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078278737 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109404177 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078179737 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109348417 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078242857 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109467857 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078379217 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109380097 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078376217 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109275337 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078339737 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109218937 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078403537 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109310217 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078411417 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109243777 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078235257 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109364737 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078325337 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109265697 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078289897 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109233937 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078233657 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109354937 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078327657 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109539017 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078288857 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109334617 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078451057 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109507417 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078349617 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109341377 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078333657 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109372777 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078331057 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109247657 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078364457 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109361657 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078232977 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/romemwrite
+Trying to write to the text segment
+This program should fail if the text segment is read-only.
+However, the kernel should not crash...
+Operation took 0.109218417 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
+
+
+Che Li's system version 0 (ASST3 #135)
+
+300k physical memory available
+
+cpu0: MIPS r3000
+OS/161 kernel: p uw-testbin/vm-crash2
+Operation took 0.078229817 seconds
+OS/161 kernel: q
+Shutting down.
+The system is halted.
